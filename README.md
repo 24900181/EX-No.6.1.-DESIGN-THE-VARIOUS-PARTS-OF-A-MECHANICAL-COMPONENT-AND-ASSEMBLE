@@ -63,11 +63,12 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 
 ## OUTPUT:
-![Screenshot 2024-12-24 214727](https://github.com/user-attachments/assets/1ae539d0-6e18-46ea-aa73-59689f5655df)
-![Linkage 6 1 v1_page-0001](https://github.com/user-attachments/assets/a20bd0c8-9731-499c-809d-a61be990b9f8)
-[Base plate v1.pdf](https://github.com/user-attachments/files/18240876/Base.plate.v1.pdf)
-[Gear Linkage v1.pdf](https://github.com/user-attachments/files/18240878/Gear.Linkage.v1.pdf)
-[Adobe Scan 22-Dec-2024.pdf](https://github.com/user-attachments/files/18240881/Adobe.Scan.22-Dec-2024.pdf)
+[Linkage 6.1 v1 (2).pdf](https://github.com/user-attachments/files/18240947/Linkage.6.1.v1.2.pdf)
+[Base plate v1.pdf](https://github.com/user-attachments/files/18240950/Base.plate.v1.pdf)
+[Gear Linkage v1.pdf](https://github.com/user-attachments/files/18240953/Gear.Linkage.v1.pdf)
+![Adobe Scan 22-Dec-2024_page-0001](https://github.com/user-attachments/assets/9fbd99bd-d406-4480-9e21-e65731db39c1)
+![Screenshot 2024-12-24 214727](https://github.com/user-attachments/assets/e95ac43e-3083-4948-bcb2-f97e36bb59d7)
+
 
 
 
