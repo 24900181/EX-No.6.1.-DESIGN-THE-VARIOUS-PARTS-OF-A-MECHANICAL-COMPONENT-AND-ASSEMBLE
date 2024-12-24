@@ -67,7 +67,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 [Base plate v1.pdf](https://github.com/user-attachments/files/18240950/Base.plate.v1.pdf)
 [Gear Linkage v1.pdf](https://github.com/user-attachments/files/18240953/Gear.Linkage.v1.pdf)
 ![Adobe Scan 22-Dec-2024_page-0001](https://github.com/user-attachments/assets/9fbd99bd-d406-4480-9e21-e65731db39c1)
-![Screenshot 2024-12-24 214727](https://github.com/user-attachments/assets/e95ac43e-3083-4948-bcb2-f97e36bb59d7)
+![Screenshot 2024-12-24 214727](https://github.com/user-attachments/assets/08582230-1c8c-49c2-a923-c2f73a2eb940)
+
 
 
 
