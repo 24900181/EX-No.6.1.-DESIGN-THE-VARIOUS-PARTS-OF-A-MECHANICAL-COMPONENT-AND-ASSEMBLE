@@ -59,8 +59,12 @@ If the components do not fit properly into the slots, it can be moved into the s
 #### FINGER
 ![image](https://user-images.githubusercontent.com/113594316/199413594-5de9578e-5800-4e69-8c76-6a5749e31805.png)
 
-#### ASSEMBLED VIEW
+#### ASSEMBLED VIEW!
+[Screenshot 2024-12-24 214727](https://github.com/user-attachments/assets/1e98c5bc-32e1-486f-9efb-347470f07d62)
 ![![Linkage 6 1 v1_page-0001](https://github.com/user-attachments/assets/4742eef0-4395-4f92-af24-01a7d4cf7c65)
+[Base plate v1.pdf](https://github.com/user-attachments/files/18240860/Base.plate.v1.pdf)
+[Gear Linkage v1.pdf](https://github.com/user-attachments/files/18240863/Gear.Linkage.v1.pdf)
+[Adobe Scan 22-Dec-2024.pdf](https://github.com/user-attachments/files/18240864/Adobe.Scan.22-Dec-2024.pdf)
 
 
 ## OUTPUT:
